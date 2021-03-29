@@ -1,0 +1,23 @@
+{
+  "Name": "Raju",
+  "Description": "Software Engineer",
+  "Image": "",
+  "Sections": [
+    {
+      "Name" : "About",
+      "Content" : "I am a software developer"
+    },
+    {
+      "Name" : "Education",
+      "Content" : "M.Tech in Computer Science and Engineering"
+    },
+    {
+      "Name" : "Contact",
+      "Content" : "Hyderabad"
+    },
+    {
+      "Name" : "LinkedIn",
+      "Link" : "https://www.linkedin.com/in/balarajuyadav/"
+    }
+  ]
+}
